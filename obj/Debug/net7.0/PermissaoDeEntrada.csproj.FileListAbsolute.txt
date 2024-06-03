@@ -1,0 +1,14 @@
+c:\dev\PermissaoDeEntrada\bin\Debug\net7.0\PermissaoDeEntrada.exe
+C:\dev\PermissaoDeEntrada\bin\Debug\net7.0\PermissaoDeEntrada.deps.json
+C:\dev\PermissaoDeEntrada\bin\Debug\net7.0\PermissaoDeEntrada.runtimeconfig.json
+c:\dev\PermissaoDeEntrada\bin\Debug\net7.0\PermissaoDeEntrada.dll
+c:\dev\PermissaoDeEntrada\bin\Debug\net7.0\PermissaoDeEntrada.pdb
+c:\dev\PermissaoDeEntrada\obj\Debug\net7.0\PermissaoDeEntrada.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\PermissaoDeEntrada\obj\Debug\net7.0\PermissaoDeEntrada.AssemblyInfoInputs.cache
+c:\dev\PermissaoDeEntrada\obj\Debug\net7.0\PermissaoDeEntrada.AssemblyInfo.cs
+c:\dev\PermissaoDeEntrada\obj\Debug\net7.0\PermissaoDeEntrada.csproj.CoreCompileInputs.cache
+c:\dev\PermissaoDeEntrada\obj\Debug\net7.0\PermissaoDeEntrada.dll
+c:\dev\PermissaoDeEntrada\obj\Debug\net7.0\refint\PermissaoDeEntrada.dll
+c:\dev\PermissaoDeEntrada\obj\Debug\net7.0\PermissaoDeEntrada.pdb
+C:\dev\PermissaoDeEntrada\obj\Debug\net7.0\PermissaoDeEntrada.genruntimeconfig.cache
+C:\dev\PermissaoDeEntrada\obj\Debug\net7.0\ref\PermissaoDeEntrada.dll
